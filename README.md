@@ -1,4 +1,4 @@
-# Simulazione Artista da Strada
+# Simulazione Artista da Strada (es. 32 Multithreading)
 
 Questo progetto è una simulazione di un artista da strada che esegue ritratti. Utilizza i semafori come meccanismo di sincronizzazione per gestire l'accesso dei clienti alle sedie disponibili e alla zona di lavoro dell'artista. L'obiettivo è creare una simulazione realistica in cui i clienti si siedono, aspettano il loro turno e vengono serviti dall'artista. Nel caso in cui un cliente debba aspettare più di 3 secondi senza essersi seduto, se ne andrà insoddisfatto.
 
